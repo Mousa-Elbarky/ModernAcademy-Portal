@@ -1,18 +1,18 @@
-\# Modern Academy - Computer Engineering Department Portal
+# ModernAcademy-Portal 🎓🌐
 
+An interactive academic department web hub designed to manage curriculum information flows, dynamic student profiles, and secure client-side form routing.
 
+---
 
-A responsive and interactive frontend web portal developed for the Computer Engineering Department at Modern Academy. This portal serves as a central hub for students to access curriculum levels, training schedules, and staff profiles.
+## 🛠️ System Features & Workflow
 
+* **Academic Information Infrastructure:** Hosts responsive database grids detailing curriculum roadmaps, prerequisites, and dynamic department information blocks.
+* **Secure Sanity Validation:** Deploys custom client-side validation routines written in pure vanilla JavaScript to safely filter, sanitize, and validate student login interfaces before entry.
+* **Automated Delivery Pipeline:** Features a robust Continuous Integration / Continuous Deployment (CI/CD) orchestration pipeline to trigger compilation and build testing.
 
+---
 
-\## 🚀 Features
+## 💻 Technical Stack
 
-\- \*\*Department Overview:\*\* Showcases the core mission and academic objectives.
-
-\- \*\*Academic Tracks:\*\* Structured navigation for curriculum levels (Level 0 to Level 4).
-
-\- \*\*Staff Directory:\*\* Interactive profile grid with quick access to faculty CVs.
-
-\- \*\*Client-Side Validation:\*\* Dynamic login and form check utilizing Vanilla JavaScript.
-
+* **Frontend Layer:** HTML5, CSS3, Client-Side JavaScript (ES6)
+* **DevOps Infrastructure:** GitHub Actions (Automated Production Deployment Lifecycle)
